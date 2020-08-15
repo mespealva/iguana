@@ -1,0 +1,80 @@
+body{
+    background-color: #000000;
+    color: #FFFFFF;
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+}
+
+.imagen{
+    width: 316px;
+    height: 202px;
+    display: inline-block;
+    padding: 5px;
+    padding-top: 75px;
+    padding-bottom: 75px;
+}
+
+div{
+    display: inline-block;
+}
+
+.gris{
+    background-color: #1E1A13;
+    opacity: 0.98;
+}
+.iguana-verde{
+
+    padding: 5px;
+    margin: 0px;
+    display: flex;
+  align-items: center;
+}
+
+.texto{
+    text-align: left;
+    font: 16px/19px Raleway, Light;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    width: 475px;
+    height: 197px;
+    padding-left: 150px;
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-bottom: 60px;
+}
+.verde{
+    width: 399px;
+    height: 237px;
+    padding-right: 150px;
+    padding-top: 45px;
+    padding-bottom: 60px;
+    padding-left: 50px;
+    
+}
+.caracteristicas{
+    padding-top: 75px;
+    padding-bottom: 74px;
+}
+.grande{
+    image-rendering: optimizeQuality;
+    border-image: fill;
+}
+.visit{
+    background-color: #1E1A13;
+    padding-top: 39px;
+    padding-bottom: 39px;
+}
+.link{
+    color: #FFFFFF;
+}
+.caja{
+    padding: 75px;
+}
+footer{
+    background-color: #1E1A13;
+    opacity: 0.94;
+}
+.titulo{
+    font:50px/59px Raleway, Medium;
+}
